@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="451b6182-98f0-461a-bbb9-2aa99bb4c588" name="Ubuntu" url="http://129.204.199.86">
+        <fileTransfer host="129.204.199.86" port="22" rootFolder="/home/ubuntu/Projects/crawler" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
